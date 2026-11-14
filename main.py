@@ -6,7 +6,7 @@ OUTPUT_DIR = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 POEM = "\n".join([
     "At midnight I told the machine: build me a bridge,",
     "and by morning it stood in the fog, waiting.",
-    "No beam had known my hands, no rope my knots.",
+    "My hands had touched no beam, no rope, no nail.",
     "I had only pointed: here, and not there.",
     "",
     "For an hour I mourned my hands, suddenly idle,",
